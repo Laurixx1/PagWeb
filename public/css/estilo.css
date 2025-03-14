@@ -21,14 +21,11 @@ header {
 
 
 .logo img {
-     max-width: 80px;
-     margin: 2px;
+     max-width: 100px;
+     margin-left: 20px;
  }
 
-
-.nav {
-    color: #ffc500;
-} 
+ 
 
 nav ul {
     list-style:none;
